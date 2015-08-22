@@ -18,6 +18,13 @@ gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
 gem 'dotenv-rails'
 gem 'gretel'
+gem 'decent_exposure'
+gem 'decent_decoration'
+gem 'draper'
+gem 'devise'
+gem 'simple_form'
+gem 'byebug'
+gem 'pry'
 
 group :development do
   gem 'better_errors'
