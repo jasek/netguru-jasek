@@ -56,7 +56,7 @@ RSpec.describe StudentsController do
   end
 
   describe 'PUT #update' do
-    let!(:student) { create :student, first_name: 'John', last_name: 'Smith' }
+    let!(:student) { create :student, first_name: 'John', last_name: 'Smith', birthday: '1988-07-12' }
     let(:first_name) { 'Walter' }
     let(:last_name) { 'White' }
     let!(:params) do
