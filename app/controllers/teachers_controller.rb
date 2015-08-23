@@ -3,6 +3,7 @@ class TeachersController < ApplicationController
   expose(:subject_items)
   expose(:teacher, attributes: :teacher_params)
   expose(:teacher_subject_items) { teacher.subject_items }
+  before_action :authenticate_user!
 
   def create
     if teacher.save
