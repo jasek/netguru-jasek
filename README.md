@@ -3,6 +3,10 @@ RoR Workshops
 
 Hi! This is my implementatin od workshop application. I hope it will help me qualify for this event.
 
+### :hash: Travis badge
+[![Build Status](https://travis-ci.org/jasek/netguru-jasek.svg?branch=master)](https://travis-ci.org/jasek/netguru-jasek)
+-------------
+
 ### :hash: App description
 -------------
 Simple application for managing school subjects, teaching staff and students.
