@@ -4,12 +4,12 @@ RoR Workshops
 Hi! This is my implementatin od workshop application. I hope it will help me qualify for this event.
 
 ### :hash: Travis badge
-[![Build Status](https://travis-ci.org/jasek/netguru-jasek.svg?branch=master)](https://travis-ci.org/jasek/netguru-jasek)
 -------------
+[![Build Status](https://travis-ci.org/jasek/netguru-jasek.svg?branch=master)](https://travis-ci.org/jasek/netguru-jasek)
 
 ### :hash: Heroku deployment
-Try my app on heorku: https://pure-falls-9599.herokuapp.com/
 -------------
+Try my app on heorku: https://pure-falls-9599.herokuapp.com/
 
 ### :hash: App description
 -------------
