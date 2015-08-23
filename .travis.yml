@@ -6,4 +6,3 @@ rvm:
  script:
    - RAILS_ENV=test
    - bundle exec rspec
- bundler_args: --binstubs=./bundler_stubs
