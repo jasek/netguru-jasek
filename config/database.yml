@@ -3,7 +3,7 @@ connection: &connection
   encoding: unicode
   host:     localhost
   pool: 5
-  username: netguru
+  username: postgres
   password: iwanttobelieve
 
 development:
