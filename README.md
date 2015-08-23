@@ -7,6 +7,10 @@ Hi! This is my implementatin od workshop application. I hope it will help me qua
 [![Build Status](https://travis-ci.org/jasek/netguru-jasek.svg?branch=master)](https://travis-ci.org/jasek/netguru-jasek)
 -------------
 
+### :hash: Heroku deployment
+Try my app on heorku: https://pure-falls-9599.herokuapp.com/
+-------------
+
 ### :hash: App description
 -------------
 Simple application for managing school subjects, teaching staff and students.
